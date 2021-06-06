@@ -6,6 +6,7 @@
 ## Code and Resources Used 
 **Python Version:** 3.8.5  
 **Packages:** pandas, numpy, matplotlib, seaborn, plotly, cufflinks
+
 **Kaggle Dataset:**  https://www.kaggle.com/rankirsh/evolution-of-top-games-on-twitch
 
 
